@@ -1,0 +1,8 @@
+langchain-community>=0.0.1
+langchain-text-splitters>=0.0.10
+langchain-huggingface>=0.0.5
+langchain-chroma>=0.0.8
+chromadb>=0.3.29
+sentence-transformers>=2.2.2
+transformers>=4.34.0
+torch>=1.13.0
