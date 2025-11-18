@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "k": 3,
+    "n_questions": 25
+  },
+  "metrics": {
+    "hit_at_k": 0.84,
+    "mrr": 0.7866666666666667
+  },
+  "per_question": [
+    {
+      "id": 1,
+      "question": "What is the real remedy for caste system according to Document 1?",
+      "retrieved": [
+        "speech1.txt",
+        "speech1.txt",
+        "speech1.txt"
+      ],
+      "gold": [
+        "speech1.txt"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What does Ambedkar say about the Buddha's view on rituals in Document 2?",
+      "retrieved": [
+        "speech2.txt",
+        "speech2.txt",
+        "speech2.txt"
+      ],
+      "gold": [
+        "speech2.txt"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What two types of constitutional remedies does Ambedkar mention in Document 3?",
+      "retrieved": [
+        "speech3.txt",
+        "speech3.txt",
+        "speech6.txt"
+      ],
+      "gold": [
+        "speech3.txt"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "What personal experiences of untouchability does Ambedkar describe in Document 4?",
+      "retrieved": [
+        "speech6.txt",
+        "speech6.txt",
+        "speech4.txt"
+      ],
+      "gold": [
+        "speech4.txt"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Why does Ambedkar believe Pakistan's creation was inevitable in Document 5?",
+      "retrieved": [
+        "speech5.txt",
+        "speech5.txt",
+        "speech5.txt"
+      ],
+      "gold": [
+        "speech5.txt"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Who does Ambedkar call 'broken men' in Document 6 and why?",
+      "retrieved": [
+        "speech6.txt",
+        "speech6.txt",
+        "speech2.txt"
+      ],
+      "gold": [
+        "speech6.txt"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Compare Ambedkar's views on education in Documents 4 and 6",
+      "retrieved": [
+        "speech4.txt",
+        "speech4.txt",
+        "speech5.txt"
+      ],
+      "gold": [
+        "speech4.txt",
+        "speech6.txt"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "What is Ambedkar's concept of ideal society across Documents 1 and 3?",
+      "retrieved": [
+        "speech1.txt",
+        "speech1.txt",
+        "speech1.txt"
+      ],
+      "gold": [
+        "speech1.txt",
+        "speech3.txt"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "How does Ambedkar relate political power to social change in Documents 3 and 6?",
+      "retrieved": [
+        "speech3.txt",
+        "speech3.txt",
+        "speech6.txt"
+      ],
+      "gold": [
+        "speech3.txt",
+        "speech6.txt"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What was Ambedkar's favorite food?",
+      "retrieved": [
+        "speech2.txt",
+        "speech2.txt",
+        "speech2.txt"
+      ],
+      "gold": []
+    },
+    {
+      "id": 11,
+      "question": "When did Ambedkar visit the United States?",
+      "retrieved": [
+        "speech5.txt",
+        "speech5.txt",
+        "speech4.txt"
+      ],
+      "gold": []
+    },
+    {
+      "id": 12,
+      "question": "What is the Dhamma according to Document 2?",
+      "retrieved": [
+        "speech2.txt",
+        "speech2.txt",
+        "speech6.txt"
+      ],
+      "gold": [
+        "speech2.txt"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "What analogy does Ambedkar use for social reform in Document 1?",
+      "retrieved": [
+        "speech1.txt",
+        "speech1.txt",
+        "speech6.txt"
+      ],
+      "gold": [
+        "speech1.txt"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "What fundamental rights does Ambedkar mention in Document 3?",
+      "retrieved": [
+        "speech3.txt",
+        "speech3.txt",
+        "speech6.txt"
+      ],
+      "gold": [
+        "speech3.txt"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "How did Ambedkar struggle for education according to Document 4?",
+      "retrieved": [
+        "speech4.txt",
+        "speech4.txt",
+        "speech2.txt"
+      ],
+      "gold": [
+        "speech4.txt"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "What does Ambedkar say about the unity of India in Document 5?",
+      "retrieved": [
+        "speech5.txt",
+        "speech5.txt",
+        "speech3.txt"
+      ],
+      "gold": [
+        "speech5.txt"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "What solution does Ambedkar propose for untouchables in Document 6?",
+      "retrieved": [
+        "speech6.txt",
+        "speech6.txt",
+        "speech4.txt"
+      ],
+      "gold": [
+        "speech6.txt"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Compare the concept of 'enemy' in Documents 1 and 6",
+      "retrieved": [
+        "speech3.txt",
+        "speech3.txt",
+        "speech3.txt"
+      ],
+      "gold": [
+        "speech1.txt",
+        "speech6.txt"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "How does Ambedkar's view on religion differ between Documents 2 and 5?",
+      "retrieved": [
+        "speech5.txt",
+        "speech5.txt",
+        "speech2.txt"
+      ],
+      "gold": [
+        "speech2.txt",
+        "speech5.txt"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "What is the relationship between education and liberation in Ambedkar's philosophy?",
+      "retrieved": [
+        "speech4.txt",
+        "speech4.txt",
+        "speech4.txt"
+      ],
+      "gold": [
+        "speech4.txt",
+        "speech6.txt"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "What year was Ambedkar born?",
+      "retrieved": [
+        "speech5.txt",
+        "speech5.txt",
+        "speech2.txt"
+      ],
+      "gold": []
+    },
+    {
+      "id": 22,
+      "question": "What specific restrictions did untouchables face according to Document 4?",
+      "retrieved": [
+        "speech6.txt",
+        "speech6.txt",
+        "speech4.txt"
+      ],
+      "gold": [
+        "speech4.txt"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "How does Ambedkar define social democracy in Document 3?",
+      "retrieved": [
+        "speech3.txt",
+        "speech3.txt",
+        "speech6.txt"
+      ],
+      "gold": [
+        "speech3.txt"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "What does Ambedkar say about the Constitution in Document 3?",
+      "retrieved": [
+        "speech3.txt",
+        "speech3.txt",
+        "speech3.txt"
+      ],
+      "gold": [
+        "speech3.txt"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "How does Ambedkar characterize the Hindu-Muslim problem in Document 5?",
+      "retrieved": [
+        "speech5.txt",
+        "speech5.txt",
+        "speech5.txt"
+      ],
+      "gold": [
+        "speech5.txt"
+      ]
+    }
+  ]
+}
