@@ -1,4 +1,4 @@
-# AmbedkarGPT – AI Intern Task (Kalpit Pvt Ltd, UK)
+# AmbedkarGPT – AI Intern Task 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python" />
@@ -11,7 +11,7 @@
 
 
 
-This repository contains my submission for the **AI Intern Assignment  
+This repository contains my submission for the **AI Intern Assignment**
 It includes two components:
 
 - **Assignment 1:** A functional RAG-based Q&A system (local, no APIs)
