@@ -11,7 +11,7 @@
 
 
 
-This repository contains my submission for the **AI Intern Assignment** provided by **Kalpit Pvt Ltd (UK)**.  
+This repository contains my submission for the **AI Intern Assignment  
 It includes two components:
 
 - **Assignment 1:** A functional RAG-based Q&A system (local, no APIs)
