@@ -1,4 +1,4 @@
-# AmbedkarGPT – AI Intern Task 
+#Semantic-Vector-RAG-QA-System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python" />
@@ -9,19 +9,18 @@
   <img src="https://img.shields.io/badge/License-MIT-brightgreen" />
 </p>
 
+This repository contains an end-to-end implementation of a **Semantic RAG-based Question Answering system**.
 
+It includes two main components:
 
-This repository contains my submission for the **AI Intern Assignment**
-It includes two components:
-
-- **Assignment 1:** A functional RAG-based Q&A system (local, no APIs)
-- **Assignment 2:** A minimal evaluation framework with retrieval metrics
+- **RAG Q&A Engine:** A fully local Retrieval-Augmented Generation pipeline for answering questions over documents (no APIs, offline).
+- **Evaluation Module:** A lightweight evaluation framework to measure retrieval performance using standard metrics such as Hit@K and MRR.
 
 The entire project runs **locally**, uses **open-source tools**, and requires **no API keys**.
 
 ---
 
-## 🚀 Assignment 1 — RAG Q&A Prototype
+## RAG Q&A Prototype
 
 ### ✔ Features
 - Loads `speech.txt` (Ambedkar excerpt)
@@ -33,7 +32,7 @@ The entire project runs **locally**, uses **open-source tools**, and requires **
 - Uses **Ollama (Mistral 7B)** as the local LLM
 - Provides a command-line Q&A interface
 
-### ▶️ Run Assignment 1
+### ▶️ How to Run
 
 Make sure **Ollama** is running:
 
@@ -47,7 +46,7 @@ python main.py
 ```
 ---
 
-## 📘 Assignment 2 — Evaluation Framework
+## 📘 Evaluation Framework
 
 This assignment evaluates the retrieval quality of the RAG system
 using the provided document corpus and dataset of 25 test questions.
@@ -68,7 +67,7 @@ What the evaluation does
 
     - MRR (Mean Reciprocal Rank)
  
-### ▶️ Run Assignment 2
+### ▶️ How to Run
 
 ```bash
 python evaluation.py
