@@ -1,4 +1,4 @@
-#Semantic-Vector-RAG-QA-System
+# Semantic-Vector-RAG-QA-System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python" />
