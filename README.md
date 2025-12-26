@@ -115,7 +115,7 @@ ollama serve
 ---
 
 ## 🧠 Technologies Used
-- Python 3.9+
+- Python 3.9+ (OR ANY RELEVANT)
 
 - LangChain (community components)
 
